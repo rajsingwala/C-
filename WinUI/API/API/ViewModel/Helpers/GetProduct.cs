@@ -54,8 +54,12 @@ namespace API
 
             using (var http = new HttpClient())
             {
-
+                
                 var res = await http.GetAsync(ProductId.BASE_URL + url);
+
+                //add header
+                //http.DefaultRequestHeaders.Add("api-key","45skspwpx");
+
                 var result = await res.Content.ReadAsStringAsync();
                 var data = JsonConvert.DeserializeObject<RootProduct>(result);
 
