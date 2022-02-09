@@ -1,0 +1,44 @@
+E:\C#\WinUI\SQL_Lite\SQL_Lite\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+E:\C#\WinUI\SQL_Lite\SQL_Lite\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+E:\C#\WinUI\SQL_Lite\SQL_Lite\bin\x86\Debug\net5.0-windows10.0.19041.0\Controls\ContactControls.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+E:\C#\WinUI\SQL_Lite\SQL_Lite (Package)\Images\SplashScreen.scale-200.png
+E:\C#\WinUI\SQL_Lite\SQL_Lite (Package)\Images\LockScreenLogo.scale-200.png
+E:\C#\WinUI\SQL_Lite\SQL_Lite (Package)\Images\Square150x150Logo.scale-200.png
+E:\C#\WinUI\SQL_Lite\SQL_Lite (Package)\Images\Square44x44Logo.scale-200.png
+E:\C#\WinUI\SQL_Lite\SQL_Lite (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\C#\WinUI\SQL_Lite\SQL_Lite (Package)\Images\StoreLogo.png
+E:\C#\WinUI\SQL_Lite\SQL_Lite (Package)\Images\Wide310x150Logo.scale-200.png
+E:\C#\WinUI\SQL_Lite\SQL_Lite (Package)\bin\x86\Debug\resources.pri
+C:\Users\User\.nuget\packages\microsoft.projectreunion.foundation\0.8.6\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\User\.nuget\packages\microsoft.projectreunion.winui\0.8.6\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\User\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.core\2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.provider.dynamic_cdecl\2.0.4\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\WinRT.Runtime.dll
+E:\C#\WinUI\SQL_Lite\SQL_Lite\bin\x86\Debug\net5.0-windows10.0.19041.0\SQL_Lite.deps.json
+E:\C#\WinUI\SQL_Lite\SQL_Lite\bin\x86\Debug\net5.0-windows10.0.19041.0\SQL_Lite.runtimeconfig.dev.json
+E:\C#\WinUI\SQL_Lite\SQL_Lite\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+E:\C#\WinUI\SQL_Lite\SQL_Lite\obj\x86\Debug\net5.0-windows10.0.19041.0\Controls\ContactControls.xbf
+E:\C#\WinUI\SQL_Lite\SQL_Lite\obj\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+E:\C#\WinUI\SQL_Lite\SQL_Lite\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\User\.nuget\packages\microsoft.projectreunion.foundation\0.8.6\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.pdb
+E:\C#\WinUI\SQL_Lite\SQL_Lite\bin\x86\Debug\net5.0-windows10.0.19041.0\SQL_Lite.runtimeconfig.json
+E:\C#\WinUI\SQL_Lite\SQL_Lite\bin\x86\Debug\net5.0-windows10.0.19041.0\SQL_Lite.dll
+E:\C#\WinUI\SQL_Lite\SQL_Lite\bin\x86\Debug\net5.0-windows10.0.19041.0\SQL_Lite.pdb

@@ -1,0 +1,40 @@
+E:\C#\WinUI\App1\App1\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+E:\C#\WinUI\App1\App1\bin\x86\Debug\net5.0-windows10.0.19041.0\Binding.xbf
+E:\C#\WinUI\App1\App1\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+E:\C#\WinUI\App1\App1 (Package)\Images\1.png
+E:\C#\WinUI\App1\App1 (Package)\Images\10.png
+E:\C#\WinUI\App1\App1 (Package)\Images\11.png
+E:\C#\WinUI\App1\App1 (Package)\Images\12.png
+E:\C#\WinUI\App1\App1 (Package)\Images\13.png
+E:\C#\WinUI\App1\App1 (Package)\Images\2.png
+E:\C#\WinUI\App1\App1 (Package)\Images\3.png
+E:\C#\WinUI\App1\App1 (Package)\Images\4.png
+E:\C#\WinUI\App1\App1 (Package)\Images\5.png
+E:\C#\WinUI\App1\App1 (Package)\Images\6.png
+E:\C#\WinUI\App1\App1 (Package)\Images\7.png
+E:\C#\WinUI\App1\App1 (Package)\Images\8.png
+E:\C#\WinUI\App1\App1 (Package)\Images\9.png
+E:\C#\WinUI\App1\App1 (Package)\Images\SplashScreen.scale-200.png
+E:\C#\WinUI\App1\App1 (Package)\Images\LockScreenLogo.scale-200.png
+E:\C#\WinUI\App1\App1 (Package)\Images\Square150x150Logo.scale-200.png
+E:\C#\WinUI\App1\App1 (Package)\Images\Square44x44Logo.scale-200.png
+E:\C#\WinUI\App1\App1 (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\C#\WinUI\App1\App1 (Package)\Images\StoreLogo.png
+E:\C#\WinUI\App1\App1 (Package)\Images\Wide310x150Logo.scale-200.png
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\resources.pri
+C:\Users\User\.nuget\packages\microsoft.projectreunion.foundation\0.8.6\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\User\.nuget\packages\microsoft.projectreunion.winui\0.8.6\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\User\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\WinRT.Runtime.dll
+E:\C#\WinUI\App1\App1\bin\x86\Debug\net5.0-windows10.0.19041.0\App1.deps.json
+E:\C#\WinUI\App1\App1\bin\x86\Debug\net5.0-windows10.0.19041.0\App1.runtimeconfig.dev.json
+E:\C#\WinUI\App1\App1\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+E:\C#\WinUI\App1\App1\obj\x86\Debug\net5.0-windows10.0.19041.0\Binding.xbf
+E:\C#\WinUI\App1\App1\obj\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+E:\C#\WinUI\App1\App1\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\User\.nuget\packages\microsoft.projectreunion.foundation\0.8.6\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.pdb
+E:\C#\WinUI\App1\App1\bin\x86\Debug\net5.0-windows10.0.19041.0\App1.runtimeconfig.json
+E:\C#\WinUI\App1\App1\bin\x86\Debug\net5.0-windows10.0.19041.0\App1.dll
+E:\C#\WinUI\App1\App1\bin\x86\Debug\net5.0-windows10.0.19041.0\App1.pdb

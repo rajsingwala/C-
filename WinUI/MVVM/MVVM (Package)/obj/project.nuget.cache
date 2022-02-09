@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "22aG0Z3omfwrzC8W5mK35Lh3/hgzAoZoF6A6k0FjrpUFPWdwD1SlOKVnaXnxhgz9uEy6X20H6KTe++qWEOSfIA==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\WinUI\\MVVM\\MVVM (Package)\\MVVM (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsappsdk\\1.0.0-experimental1\\microsoft.windowsappsdk.1.0.0-experimental1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsappsdk.dwrite\\1.0.0-experimental1\\microsoft.windowsappsdk.dwrite.1.0.0-experimental1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsappsdk.foundation\\1.0.0-experimental1\\microsoft.windowsappsdk.foundation.1.0.0-experimental1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsappsdk.interactiveexperiences\\1.0.0-experimental1\\microsoft.windowsappsdk.interactiveexperiences.1.0.0-experimental1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsappsdk.winui\\1.0.0-experimental1\\microsoft.windowsappsdk.winui.1.0.0-experimental1.nupkg.sha512"
+  ],
+  "logs": []
+}

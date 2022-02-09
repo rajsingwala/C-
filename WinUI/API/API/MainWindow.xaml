@@ -1,0 +1,67 @@
+﻿<Window
+    x:Class="API.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:converters="using:API.ViewModel.ValueConverter"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:data="using:API.Models"
+    xmlns:local="using:API"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <Page Loaded="Page_Loaded">
+
+        <Page.Resources>
+            <converters:Graphic x:Key="graphic" />
+            <DataTemplate x:Key="data" x:DataType="data:ZFormat">
+                <StackPanel Margin="20">
+                    <StackPanel Margin="5" Orientation="Horizontal">
+                        <TextBlock Text="ProductSKU : " />
+                        <TextBlock Text="{x:Bind ProductSKU}" />
+                    </StackPanel>
+                    <StackPanel Margin="5" Orientation="Horizontal">
+                        <TextBlock Text="ProductName : " />
+                        <TextBlock Text="{x:Bind ProductName}" />
+                    </StackPanel>
+                    <StackPanel Margin="5" Orientation="Horizontal">
+                        <TextBlock Text="Product_type : " />
+                        <TextBlock Text="{x:Bind Product_type}" />
+                    </StackPanel>
+                    <StackPanel Margin="5" Orientation="Horizontal">
+                        <TextBlock Text="Product Graphic : " />
+                        <TextBlock Text="{Binding Graphic, Converter={StaticResource graphic}}" />
+                    </StackPanel>
+                    <StackPanel Margin="5" Orientation="Horizontal">
+                        <TextBlock Text="Color : " />
+                        <TextBlock Text="{x:Bind Color}" />
+                    </StackPanel>
+                    <StackPanel Margin="5" Orientation="Horizontal">
+                        <TextBlock Text="ColorInHex : " />
+                        <TextBlock Text="{x:Bind ColorInHex}" />
+                    </StackPanel>
+                    <StackPanel Margin="5" Orientation="Horizontal">
+                        <TextBlock Text="Size : " />
+                        <TextBlock Text="{x:Bind Size}" />
+                    </StackPanel>
+                    <StackPanel Margin="5" Orientation="Horizontal">
+                        <TextBlock Text="Weight : " />
+                        <TextBlock Text="{x:Bind Weight}" />
+                    </StackPanel>
+                </StackPanel>
+            </DataTemplate>
+        </Page.Resources>
+
+        <ScrollViewer>
+            <Grid>
+
+                <GridView ItemTemplate="{StaticResource data}" ItemsSource="{x:Bind ProductCollection.Value}" />
+
+                <TextBlock
+                    Name="tbl1"
+                    FontSize="20"
+                    Foreground="white" />
+            </Grid>
+        </ScrollViewer>
+    </Page>
+</Window>

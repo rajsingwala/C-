@@ -1,0 +1,1 @@
+E:\C#\WinUI\ContactManager\ContactManager (Package)\ContactManager (Package).wapproj;x86

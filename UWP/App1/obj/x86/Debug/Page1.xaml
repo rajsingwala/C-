@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="App1.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#000">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+
+    <StackPanel Margin="0,4,0,-4">
+        <TextBlock Text="Page1" FontSize="48" Foreground="#000"/>
+        <HyperlinkButton x:ConnectionId='2' Content="Page 2" FontSize="40"                              ></HyperlinkButton>
+        <HyperlinkButton x:ConnectionId='3' Content="Control" FontSize="40"                                ></HyperlinkButton>
+        <HyperlinkButton Content="Google" NavigateUri="www.google.com" FontFamily="80" Foreground="#000"></HyperlinkButton>
+        <TextBox x:ConnectionId='4' Name="textbox" ></TextBox>
+        <CheckBox x:ConnectionId='5' Name ="cb" Content="CheckBox"                          />
+        <TextBlock x:ConnectionId='6' TextWrapping="Wrap" Text="TextBlock" Name="tx" FontSize="40" Foreground="#fff"/>
+        <TextBlock x:ConnectionId='7' TextWrapping="Wrap" Text="TextBlock" Name="tx2" FontSize="10" Foreground="#fff"/>
+        <RadioButton x:ConnectionId='8' Name="yes_radio" Content="Yes" GroupName="radiogrp"                        ></RadioButton>
+        <RadioButton x:ConnectionId='9' Name="no_radio" Content="No" GroupName="radiogrp"                        ></RadioButton>
+        <ComboBox x:ConnectionId='10' Width="120" Name="comb"                                         >
+            <ComboBoxItem Content="one" IsSelected="true"></ComboBoxItem>
+            <ComboBoxItem Content="two"></ComboBoxItem>
+            <ComboBoxItem Content="three"></ComboBoxItem>
+        </ComboBox>
+        <TextBlock x:ConnectionId='11' TextWrapping="Wrap" Text="TextBlock" Name="tx3" FontSize="10" Foreground="#fff"/>
+
+        <ListBox x:ConnectionId='12' Width="120" Name="litb"                                          SelectionMode="multiple">
+            <ListBoxItem Content="one" ></ListBoxItem>
+            <ListBoxItem Content="two"></ListBoxItem>
+            <ListBoxItem Content="three"></ListBoxItem>
+        </ListBox>
+       <TextBlock x:ConnectionId='13' TextWrapping="Wrap" Text="TextBlock" Name="tx4" FontSize="40" Foreground="#fff"/> 
+
+        <!--<Image Source="Assets/StoreLogo.png" Width="50" Height="50" Stretch="Fill"/> -->
+
+        <ToggleButton x:ConnectionId='14' Name="toggle" IsThreeState="True" Content="Premium"></ToggleButton>
+       <TextBlock x:ConnectionId='15'  Name="tx5" FontSize="40" Foreground="#fff" />
+
+        <ToggleSwitch>
+            <ToggleSwitch.OnContent>
+                <TextBlock>ON</TextBlock></ToggleSwitch.OnContent>
+            <ToggleSwitch.OffContent>
+                <TextBlock>OFF</TextBlock></ToggleSwitch.OffContent>
+        </ToggleSwitch>  
+      
+           
+            <CalendarView SelectionMode="Single"/>
+        </StackPanel>
+    </ScrollViewer>
+</Page>
+

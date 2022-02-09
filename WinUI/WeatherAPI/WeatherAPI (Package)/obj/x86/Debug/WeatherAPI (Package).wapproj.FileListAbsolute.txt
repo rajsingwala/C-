@@ -1,0 +1,53 @@
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\App.xbf
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\View\WeatherWindow.xbf
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\Catel.Core.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\Catel.MVVM.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\Microsoft.ApplicationModel.Resources.Projection.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\Microsoft.WinUI.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\Microsoft.Xaml.Behaviors.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\Newtonsoft.Json.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\de\Catel.MVVM.resources.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\es\Catel.MVVM.resources.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\fr\Catel.MVVM.resources.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\it\Catel.MVVM.resources.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\nl\Catel.MVVM.resources.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\ru\Catel.MVVM.resources.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\tr\Catel.MVVM.resources.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\zh-Hans\Catel.MVVM.resources.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\Microsoft.Windows.SDK.NET.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\WinRT.Runtime.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\WeatherAPI.deps.json
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\WeatherAPI.runtimeconfig.dev.json
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\App.xbf
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\View\WeatherWindow.xbf
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\WeatherAPI.exe
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\Catel.Core.pdb
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\Catel.MVVM.pdb
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\Microsoft.ApplicationModel.Resources.Projection.pdb
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\Microsoft.Xaml.Behaviors.pdb
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\WeatherAPI.runtimeconfig.json
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\WeatherAPI.dll
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI\WeatherAPI.pdb
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\resources.pri
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\AppxManifest.xml
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\bin\x86\Debug\WeatherAPI (Package).build.appxrecipe
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\WeatherAPI (Package).wapproj.AssemblyReference.cache
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\WeatherAPI (Package).wapproj.CoreCompileInputs.cache
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\WeatherAPI.pri.xml
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\priconfig.xml
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\priconfig.xml.intermediate
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\filtered.layout.resfiles
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\excluded.layout.resfiles
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\resources.resfiles
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\resources.resfiles.intermediate
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\pri.resfiles
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\pri.resfiles.intermediate
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\qualifiers.txt
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\ProjectArchitectures.txt
+E:\C#\WinUI\WeatherAPI\WeatherAPI (Package)\obj\x86\Debug\WeatherAPI (Package).wapproj.LastBuild.txt

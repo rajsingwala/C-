@@ -1,0 +1,38 @@
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\App.xbf
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\MainWindow.xbf
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\Microsoft.ApplicationModel.Resources.Projection.dll
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\Microsoft.WinUI.dll
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\Microsoft.Windows.SDK.NET.dll
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\WinRT.Runtime.dll
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\ContactManager.deps.json
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\ContactManager.runtimeconfig.dev.json
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\App.xbf
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\MainWindow.xbf
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\ContactManager.exe
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\Microsoft.ApplicationModel.Resources.Projection.pdb
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\ContactManager.runtimeconfig.json
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\ContactManager.dll
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager\ContactManager.pdb
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\resources.pri
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\AppxManifest.xml
+E:\C#\WinUI\ContactManager\ContactManager (Package)\bin\x86\Debug\ContactManager (Package).build.appxrecipe
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\ContactManager (Package).wapproj.AssemblyReference.cache
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\ContactManager (Package).wapproj.CoreCompileInputs.cache
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\ContactManager.pri.xml
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\priconfig.xml
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\priconfig.xml.intermediate
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\filtered.layout.resfiles
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\excluded.layout.resfiles
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\resources.resfiles
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\resources.resfiles.intermediate
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\pri.resfiles
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\pri.resfiles.intermediate
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\qualifiers.txt
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\ProjectArchitectures.txt
+E:\C#\WinUI\ContactManager\ContactManager (Package)\obj\x86\Debug\ContactManager (Package).wapproj.LastBuild.txt

@@ -1,0 +1,42 @@
+﻿<Window
+    x:Class="SQL_Lite.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:data="using:SQL_Lite.Model"
+    xmlns:local1="using:SQL_Lite.Controls"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <StackPanel>
+            <TextBox
+                Name="name"
+                Width="500"
+                Margin="10" />
+            <TextBox
+                Name="email"
+                Width="500"
+                Margin="10" />
+            <TextBox
+                Name="contact"
+                Width="500"
+                Margin="10" />
+            <Button
+                Margin="10"
+                Click="Button_Click"
+                Content="Save" />
+
+            <TextBox TextChanged="TextBox_TextChanged" />
+
+            <ListView Name="listView" Margin="5">
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="data:Contact">
+                        <local1:ContactControls Contact="{x:Bind}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+    </Grid>
+
+</Window>

@@ -1,0 +1,17 @@
+E:\C#\Project\Form2\bin\Debug\Form2.exe
+E:\C#\Project\Form2\bin\Debug\Form2.pdb
+E:\C#\Project\Form2\bin\Debug\Interop.WMPLib.dll
+E:\C#\Project\Form2\bin\Debug\AxInterop.WMPLib.dll
+E:\C#\Project\Form2\obj\Debug\Form2.csproj.AssemblyReference.cache
+E:\C#\Project\Form2\obj\Debug\Interop.WMPLib.dll
+E:\C#\Project\Form2\obj\Debug\AxInterop.WMPLib.dll
+E:\C#\Project\Form2\obj\Debug\Form2.csproj.ResolveComReference.cache
+E:\C#\Project\Form2\obj\Debug\Form2.Form1.resources
+E:\C#\Project\Form2\obj\Debug\Form2.Properties.Resources.resources
+E:\C#\Project\Form2\obj\Debug\Form2.csproj.GenerateResource.cache
+E:\C#\Project\Form2\obj\Debug\Form2.csproj.CoreCompileInputs.cache
+E:\C#\Project\Form2\obj\Debug\Form2.exe
+E:\C#\Project\Form2\obj\Debug\Form2.pdb
+E:\C#\Project\Form2\bin\Debug\calc.exe
+E:\C#\Project\Form2\bin\Debug\Form2.exe.config
+E:\C#\Project\Form2\bin\Debug\start.rtf

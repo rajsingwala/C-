@@ -1,0 +1,46 @@
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\App.xbf
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\MainWindow.xbf
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\Microsoft.ApplicationModel.Resources.Projection.dll
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\Microsoft.WinUI.dll
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\Microsoft.Windows.SDK.NET.dll
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\WinRT.Runtime.dll
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\GoNuts.deps.json
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\GoNuts.runtimeconfig.dev.json
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\App.xbf
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\MainWindow.xbf
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\GoNuts.exe
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\Microsoft.ApplicationModel.Resources.Projection.pdb
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\GoNuts.runtimeconfig.json
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\GoNuts.dll
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\GoNuts.pdb
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\resources.pri
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\AppxManifest.xml
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts (Package).build.appxrecipe
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\GoNuts (Package).wapproj.AssemblyReference.cache
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\GoNuts (Package).wapproj.CoreCompileInputs.cache
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\GoNuts.pri.xml
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\priconfig.xml
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\priconfig.xml.intermediate
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\filtered.layout.resfiles
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\excluded.layout.resfiles
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\resources.resfiles
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\resources.resfiles.intermediate
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\pri.resfiles
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\pri.resfiles.intermediate
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\qualifiers.txt
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\ProjectArchitectures.txt
+E:\C#\WinUI\GoNuts\GoNuts (Package)\obj\x86\Debug\GoNuts (Package).wapproj.LastBuild.txt
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\Coffee.xbf
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\Complete.xbf
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\Donuts.xbf
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\GoNuts\Schedule.xbf
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\Coffee.xbf
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\Complete.xbf
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\Donuts.xbf
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\Schedule.xbf

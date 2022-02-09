@@ -1,0 +1,41 @@
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App.xbf
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\Binding.xbf
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\MainWindow.xbf
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\Microsoft.ApplicationModel.Resources.Projection.dll
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\Microsoft.WinUI.dll
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\Newtonsoft.Json.dll
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\Microsoft.Windows.SDK.NET.dll
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\WinRT.Runtime.dll
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\App1.deps.json
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\App1.runtimeconfig.dev.json
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\App.xbf
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\Binding.xbf
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\MainWindow.xbf
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\App1.exe
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\Microsoft.ApplicationModel.Resources.Projection.pdb
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\App1.runtimeconfig.json
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\App1.dll
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1\App1.pdb
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\resources.pri
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\AppxManifest.xml
+E:\C#\WinUI\App1\App1 (Package)\bin\x86\Debug\App1 (Package).build.appxrecipe
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\App1 (Package).wapproj.AssemblyReference.cache
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\App1 (Package).wapproj.CoreCompileInputs.cache
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\App1.pri.xml
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\priconfig.xml
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\priconfig.xml.intermediate
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\filtered.layout.resfiles
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\excluded.layout.resfiles
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\resources.resfiles
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\resources.resfiles.intermediate
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\pri.resfiles
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\pri.resfiles.intermediate
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\qualifiers.txt
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\ProjectArchitectures.txt
+E:\C#\WinUI\App1\App1 (Package)\obj\x86\Debug\App1 (Package).wapproj.LastBuild.txt

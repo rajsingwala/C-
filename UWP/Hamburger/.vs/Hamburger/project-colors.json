@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb4f05e1-0aaf-4ca7-bde2-9d5133156117": {
+      "ProjectGuid": "eb4f05e1-0aaf-4ca7-bde2-9d5133156117",
+      "DisplayName": "Hamburger",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

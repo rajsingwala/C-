@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="GoNuts" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://GoNuts/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Coffee.xbf" uri="ms-resource://GoNuts/Files/Coffee.xbf">
+				<Candidate type="Path">
+					<Value>Coffee.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Complete.xbf" uri="ms-resource://GoNuts/Files/Complete.xbf">
+				<Candidate type="Path">
+					<Value>Complete.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Donuts.xbf" uri="ms-resource://GoNuts/Files/Donuts.xbf">
+				<Candidate type="Path">
+					<Value>Donuts.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainWindow.xbf" uri="ms-resource://GoNuts/Files/MainWindow.xbf">
+				<Candidate type="Path">
+					<Value>MainWindow.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Schedule.xbf" uri="ms-resource://GoNuts/Files/Schedule.xbf">
+				<Candidate type="Path">
+					<Value>Schedule.xbf</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,74 @@
+﻿<Page
+    x:Class="App1.Binding"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:data1="using:App1.Model"
+    xmlns:local="using:App1"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+
+        <DataTemplate x:Key="data" x:DataType="data1:Book">
+            <StackPanel Margin="5">
+                <Image Width="150" Source="{x:Bind CoverImage}" />
+                <TextBlock
+                    HorizontalAlignment="Center"
+                    FontSize="20"
+                    Text="{x:Bind Title}" />
+                <TextBlock
+                    HorizontalAlignment="Center"
+                    FontSize="10"
+                    Text="{x:Bind Author}" />
+            </StackPanel>
+        </DataTemplate>
+
+
+        <DataTemplate x:Key="data2" x:DataType="data1:Book">
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Image Width="150" Source="{x:Bind CoverImage}" />
+                <StackPanel>
+
+                    <TextBlock
+                        HorizontalAlignment="Center"
+                        FontSize="20"
+                        Text="{x:Bind Title}" />
+                    <TextBlock
+                        HorizontalAlignment="Center"
+                        FontSize="10"
+                        Text="{x:Bind Author}" />
+                </StackPanel>
+            </StackPanel>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="100" />
+        </Grid.RowDefinitions>
+
+        <GridView
+            IsItemClickEnabled="True"
+            ItemClick="GridView_ItemClick"
+            ItemTemplate="{StaticResource data}"
+            ItemsSource="{x:Bind Books}" />
+
+        <ListView
+            Grid.Row="1"
+            IsItemClickEnabled="True"
+            ItemClick="GridView_ItemClick"
+            ItemTemplate="{StaticResource data2}"
+            ItemsSource="{x:Bind Books}" />
+
+        <TextBlock
+            Name="result"
+            Grid.Row="2"
+            FontSize="22"
+            Foreground="red" />
+
+    </Grid>
+</Page>

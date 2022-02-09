@@ -1,0 +1,61 @@
+E:\C#\WinUI\API\API\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+E:\C#\WinUI\API\API\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+E:\C#\WinUI\API\API (Package)\Images\SplashScreen.scale-200.png
+E:\C#\WinUI\API\API (Package)\Images\LockScreenLogo.scale-200.png
+E:\C#\WinUI\API\API (Package)\Images\Square150x150Logo.scale-200.png
+E:\C#\WinUI\API\API (Package)\Images\Square44x44Logo.scale-200.png
+E:\C#\WinUI\API\API (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\C#\WinUI\API\API (Package)\Images\StoreLogo.png
+E:\C#\WinUI\API\API (Package)\Images\Wide310x150Logo.scale-200.png
+E:\C#\WinUI\API\API (Package)\bin\x86\Debug\resources.pri
+C:\Users\User\.nuget\packages\microsoft.bcl.asyncinterfaces\1.1.1\lib\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\.nuget\packages\microsoft.bcl.hashcode\1.1.1\lib\netcoreapp2.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\.nuget\packages\microsoft.data.sqlite.core\3.1.14\lib\netstandard2.0\Microsoft.Data.Sqlite.dll
+C:\Users\User\.nuget\packages\microsoft.dotnet.platformabstractions\3.1.6\lib\netstandard2.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\.nuget\packages\microsoft.entityframeworkcore\3.1.14\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\.nuget\packages\microsoft.entityframeworkcore.abstractions\3.1.14\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\.nuget\packages\microsoft.entityframeworkcore.relational\3.1.14\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\.nuget\packages\microsoft.entityframeworkcore.sqlite.core\3.1.14\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.caching.abstractions\3.1.14\lib\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.caching.memory\3.1.14\lib\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.configuration\3.1.14\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.configuration.abstractions\3.1.14\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.configuration.binder\3.1.14\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.dependencyinjection\3.1.14\lib\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\3.1.14\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.dependencymodel\3.1.6\lib\netstandard2.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.logging\3.1.14\lib\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.logging.abstractions\3.1.14\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.options\3.1.14\lib\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\.nuget\packages\microsoft.extensions.primitives\3.1.14\lib\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\.nuget\packages\microsoft.projectreunion.foundation\0.8.6\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\User\.nuget\packages\microsoft.projectreunion.winui\0.8.6\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\User\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.bundle_e_sqlite3\2.0.2\lib\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.bundle_e_sqlite3\2.0.2\lib\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.core\2.0.2\lib\netstandard2.0\SQLitePCLRaw.core.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.provider.dynamic_cdecl\2.0.2\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.2\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\WinRT.Runtime.dll
+E:\C#\WinUI\API\API\bin\x86\Debug\net5.0-windows10.0.19041.0\API.deps.json
+E:\C#\WinUI\API\API\bin\x86\Debug\net5.0-windows10.0.19041.0\API.runtimeconfig.dev.json
+E:\C#\WinUI\API\API\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+E:\C#\WinUI\API\API\obj\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+E:\C#\WinUI\API\API\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\User\.nuget\packages\microsoft.projectreunion.foundation\0.8.6\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.pdb
+E:\C#\WinUI\API\API\bin\x86\Debug\net5.0-windows10.0.19041.0\API.runtimeconfig.json
+E:\C#\WinUI\API\API\bin\x86\Debug\net5.0-windows10.0.19041.0\API.dll
+E:\C#\WinUI\API\API\bin\x86\Debug\net5.0-windows10.0.19041.0\API.pdb

@@ -1,0 +1,41 @@
+E:\C#\WinUI\MVVM\MVVM\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+E:\C#\WinUI\MVVM\MVVM\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\Images\SplashScreen.scale-200.png
+E:\C#\WinUI\MVVM\MVVM (Package)\Images\LockScreenLogo.scale-200.png
+E:\C#\WinUI\MVVM\MVVM (Package)\Images\Square150x150Logo.scale-200.png
+E:\C#\WinUI\MVVM\MVVM (Package)\Images\Square44x44Logo.scale-200.png
+E:\C#\WinUI\MVVM\MVVM (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\C#\WinUI\MVVM\MVVM (Package)\Images\StoreLogo.png
+E:\C#\WinUI\MVVM\MVVM (Package)\Images\Wide310x150Logo.scale-200.png
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\resources.pri
+C:\Users\User\.nuget\packages\catel.core\5.12.22\lib\net5.0\Catel.Core.dll
+C:\Users\User\.nuget\packages\catel.mvvm\5.12.22\lib\net5.0-windows7.0\Catel.MVVM.dll
+C:\Users\User\.nuget\packages\microsoft.windowsappsdk.foundation\1.0.0-experimental1\lib\net5.0-windows10.0.17763.0\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\User\.nuget\packages\microsoft.windowsappsdk.interactiveexperiences\1.0.0-experimental1\lib\net5.0-windows10.0.17763.0\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\User\.nuget\packages\microsoft.windowsappsdk.winui\1.0.0-experimental1\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\User\.nuget\packages\microsoft.xaml.behaviors.wpf\1.1.37\lib\net5.0-windows7.0\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\.nuget\packages\catel.mvvm\5.12.22\lib\net5.0-windows7.0\de\Catel.MVVM.resources.dll
+C:\Users\User\.nuget\packages\catel.mvvm\5.12.22\lib\net5.0-windows7.0\es\Catel.MVVM.resources.dll
+C:\Users\User\.nuget\packages\catel.mvvm\5.12.22\lib\net5.0-windows7.0\fr\Catel.MVVM.resources.dll
+C:\Users\User\.nuget\packages\catel.mvvm\5.12.22\lib\net5.0-windows7.0\it\Catel.MVVM.resources.dll
+C:\Users\User\.nuget\packages\catel.mvvm\5.12.22\lib\net5.0-windows7.0\nl\Catel.MVVM.resources.dll
+C:\Users\User\.nuget\packages\catel.mvvm\5.12.22\lib\net5.0-windows7.0\ru\Catel.MVVM.resources.dll
+C:\Users\User\.nuget\packages\catel.mvvm\5.12.22\lib\net5.0-windows7.0\tr\Catel.MVVM.resources.dll
+C:\Users\User\.nuget\packages\catel.mvvm\5.12.22\lib\net5.0-windows7.0\zh-Hans\Catel.MVVM.resources.dll
+C:\Users\User\.nuget\packages\microsoft.windowsappsdk.foundation\1.0.0-experimental1\runtimes\lib\native\arm64\Microsoft.WindowsAppSDK.Bootstrap.dll
+C:\Users\User\.nuget\packages\microsoft.windowsappsdk.foundation\1.0.0-experimental1\runtimes\lib\native\x64\Microsoft.WindowsAppSDK.Bootstrap.dll
+C:\Users\User\.nuget\packages\microsoft.windowsappsdk.foundation\1.0.0-experimental1\runtimes\lib\native\x86\Microsoft.WindowsAppSDK.Bootstrap.dll
+C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\WinRT.Runtime.dll
+E:\C#\WinUI\MVVM\MVVM\bin\x86\Debug\net5.0-windows10.0.19041.0\MVVM.deps.json
+E:\C#\WinUI\MVVM\MVVM\bin\x86\Debug\net5.0-windows10.0.19041.0\MVVM.runtimeconfig.dev.json
+E:\C#\WinUI\MVVM\MVVM\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+E:\C#\WinUI\MVVM\MVVM\obj\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+E:\C#\WinUI\MVVM\MVVM\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\User\.nuget\packages\catel.core\5.12.22\lib\net5.0\Catel.Core.pdb
+C:\Users\User\.nuget\packages\catel.mvvm\5.12.22\lib\net5.0-windows7.0\Catel.MVVM.pdb
+C:\Users\User\.nuget\packages\microsoft.xaml.behaviors.wpf\1.1.37\lib\net5.0-windows7.0\Microsoft.Xaml.Behaviors.pdb
+E:\C#\WinUI\MVVM\MVVM\bin\x86\Debug\net5.0-windows10.0.19041.0\MVVM.runtimeconfig.json
+E:\C#\WinUI\MVVM\MVVM\bin\x86\Debug\net5.0-windows10.0.19041.0\MVVM.dll
+E:\C#\WinUI\MVVM\MVVM\bin\x86\Debug\net5.0-windows10.0.19041.0\MVVM.pdb

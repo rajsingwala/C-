@@ -1,0 +1,1120 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows10.0.19041": {
+      "Microsoft.ProjectReunion/0.8.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ProjectReunion.DWrite": "0.8.6",
+          "Microsoft.ProjectReunion.Foundation": "0.8.6",
+          "Microsoft.ProjectReunion.InteractiveExperiences": "0.8.6",
+          "Microsoft.ProjectReunion.WinUI": "0.8.6"
+        },
+        "build": {
+          "build/Microsoft.ProjectReunion.props": {},
+          "build/Microsoft.ProjectReunion.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.DWrite/0.8.6": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.ProjectReunion.DWrite.props": {},
+          "build/Microsoft.ProjectReunion.DWrite.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.Foundation/0.8.6": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.dll": {}
+        },
+        "build": {
+          "build/Microsoft.ProjectReunion.Foundation.props": {},
+          "build/Microsoft.ProjectReunion.Foundation.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.InteractiveExperiences/0.8.6": {
+        "type": "package",
+        "build": {
+          "build/net5.0-windows10.0.17763.0/Microsoft.ProjectReunion.InteractiveExperiences.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.WinUI/0.8.6": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI.dll": {}
+        },
+        "build": {
+          "buildTransitive/Microsoft.ProjectReunion.WinUI.props": {},
+          "buildTransitive/Microsoft.ProjectReunion.WinUI.targets": {}
+        }
+      },
+      "sqlite-net-pcl/1.8.116": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.bundle_green": "2.0.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLite-net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLite-net.dll": {}
+        }
+      },
+      "SQLitePCLRaw.bundle_green/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.core": "2.0.4",
+          "SQLitePCLRaw.lib.e_sqlite3": "2.0.4",
+          "SQLitePCLRaw.provider.dynamic_cdecl": "2.0.4"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll": {},
+          "lib/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll": {},
+          "lib/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll": {}
+        }
+      },
+      "SQLitePCLRaw.core/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {}
+        }
+      },
+      "SQLitePCLRaw.lib.e_sqlite3/2.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/alpine-x64/native/libe_sqlite3.so": {
+            "assetType": "native",
+            "rid": "alpine-x64"
+          },
+          "runtimes/linux-arm/native/libe_sqlite3.so": {
+            "assetType": "native",
+            "rid": "linux-arm"
+          },
+          "runtimes/linux-arm64/native/libe_sqlite3.so": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-armel/native/libe_sqlite3.so": {
+            "assetType": "native",
+            "rid": "linux-armel"
+          },
+          "runtimes/linux-mips64/native/libe_sqlite3.so": {
+            "assetType": "native",
+            "rid": "linux-mips64"
+          },
+          "runtimes/linux-musl-x64/native/libe_sqlite3.so": {
+            "assetType": "native",
+            "rid": "linux-musl-x64"
+          },
+          "runtimes/linux-x64/native/libe_sqlite3.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x86/native/libe_sqlite3.so": {
+            "assetType": "native",
+            "rid": "linux-x86"
+          },
+          "runtimes/osx-x64/native/libe_sqlite3.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-arm/native/e_sqlite3.dll": {
+            "assetType": "native",
+            "rid": "win-arm"
+          },
+          "runtimes/win-arm64/native/e_sqlite3.dll": {
+            "assetType": "native",
+            "rid": "win-arm64"
+          },
+          "runtimes/win-x64/native/e_sqlite3.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/e_sqlite3.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      },
+      "SQLitePCLRaw.provider.dynamic_cdecl/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.core": "2.0.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll": {}
+        }
+      },
+      "System.Memory/4.5.3": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      }
+    },
+    "net5.0-windows10.0.19041/win10-arm64": {
+      "Microsoft.ProjectReunion/0.8.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ProjectReunion.DWrite": "0.8.6",
+          "Microsoft.ProjectReunion.Foundation": "0.8.6",
+          "Microsoft.ProjectReunion.InteractiveExperiences": "0.8.6",
+          "Microsoft.ProjectReunion.WinUI": "0.8.6"
+        },
+        "build": {
+          "build/Microsoft.ProjectReunion.props": {},
+          "build/Microsoft.ProjectReunion.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.DWrite/0.8.6": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.ProjectReunion.DWrite.props": {},
+          "build/Microsoft.ProjectReunion.DWrite.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.Foundation/0.8.6": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.dll": {}
+        },
+        "build": {
+          "build/Microsoft.ProjectReunion.Foundation.props": {},
+          "build/Microsoft.ProjectReunion.Foundation.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.InteractiveExperiences/0.8.6": {
+        "type": "package",
+        "build": {
+          "build/net5.0-windows10.0.17763.0/Microsoft.ProjectReunion.InteractiveExperiences.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.WinUI/0.8.6": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI.dll": {}
+        },
+        "build": {
+          "buildTransitive/Microsoft.ProjectReunion.WinUI.props": {},
+          "buildTransitive/Microsoft.ProjectReunion.WinUI.targets": {}
+        }
+      },
+      "sqlite-net-pcl/1.8.116": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.bundle_green": "2.0.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLite-net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLite-net.dll": {}
+        }
+      },
+      "SQLitePCLRaw.bundle_green/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.core": "2.0.4",
+          "SQLitePCLRaw.lib.e_sqlite3": "2.0.4",
+          "SQLitePCLRaw.provider.dynamic_cdecl": "2.0.4"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll": {},
+          "lib/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll": {},
+          "lib/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll": {}
+        }
+      },
+      "SQLitePCLRaw.core/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {}
+        }
+      },
+      "SQLitePCLRaw.lib.e_sqlite3/2.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/_._": {}
+        },
+        "native": {
+          "runtimes/win-arm64/native/e_sqlite3.dll": {}
+        }
+      },
+      "SQLitePCLRaw.provider.dynamic_cdecl/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.core": "2.0.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll": {}
+        }
+      },
+      "System.Memory/4.5.3": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      }
+    },
+    "net5.0-windows10.0.19041/win10-x64": {
+      "Microsoft.ProjectReunion/0.8.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ProjectReunion.DWrite": "0.8.6",
+          "Microsoft.ProjectReunion.Foundation": "0.8.6",
+          "Microsoft.ProjectReunion.InteractiveExperiences": "0.8.6",
+          "Microsoft.ProjectReunion.WinUI": "0.8.6"
+        },
+        "build": {
+          "build/Microsoft.ProjectReunion.props": {},
+          "build/Microsoft.ProjectReunion.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.DWrite/0.8.6": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.ProjectReunion.DWrite.props": {},
+          "build/Microsoft.ProjectReunion.DWrite.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.Foundation/0.8.6": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.dll": {}
+        },
+        "build": {
+          "build/Microsoft.ProjectReunion.Foundation.props": {},
+          "build/Microsoft.ProjectReunion.Foundation.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.InteractiveExperiences/0.8.6": {
+        "type": "package",
+        "build": {
+          "build/net5.0-windows10.0.17763.0/Microsoft.ProjectReunion.InteractiveExperiences.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.WinUI/0.8.6": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI.dll": {}
+        },
+        "build": {
+          "buildTransitive/Microsoft.ProjectReunion.WinUI.props": {},
+          "buildTransitive/Microsoft.ProjectReunion.WinUI.targets": {}
+        }
+      },
+      "sqlite-net-pcl/1.8.116": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.bundle_green": "2.0.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLite-net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLite-net.dll": {}
+        }
+      },
+      "SQLitePCLRaw.bundle_green/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.core": "2.0.4",
+          "SQLitePCLRaw.lib.e_sqlite3": "2.0.4",
+          "SQLitePCLRaw.provider.dynamic_cdecl": "2.0.4"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll": {},
+          "lib/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll": {},
+          "lib/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll": {}
+        }
+      },
+      "SQLitePCLRaw.core/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {}
+        }
+      },
+      "SQLitePCLRaw.lib.e_sqlite3/2.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/_._": {}
+        },
+        "native": {
+          "runtimes/win-x64/native/e_sqlite3.dll": {}
+        }
+      },
+      "SQLitePCLRaw.provider.dynamic_cdecl/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.core": "2.0.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll": {}
+        }
+      },
+      "System.Memory/4.5.3": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      }
+    },
+    "net5.0-windows10.0.19041/win10-x86": {
+      "Microsoft.ProjectReunion/0.8.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ProjectReunion.DWrite": "0.8.6",
+          "Microsoft.ProjectReunion.Foundation": "0.8.6",
+          "Microsoft.ProjectReunion.InteractiveExperiences": "0.8.6",
+          "Microsoft.ProjectReunion.WinUI": "0.8.6"
+        },
+        "build": {
+          "build/Microsoft.ProjectReunion.props": {},
+          "build/Microsoft.ProjectReunion.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.DWrite/0.8.6": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.ProjectReunion.DWrite.props": {},
+          "build/Microsoft.ProjectReunion.DWrite.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.Foundation/0.8.6": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.dll": {}
+        },
+        "build": {
+          "build/Microsoft.ProjectReunion.Foundation.props": {},
+          "build/Microsoft.ProjectReunion.Foundation.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.InteractiveExperiences/0.8.6": {
+        "type": "package",
+        "build": {
+          "build/net5.0-windows10.0.17763.0/Microsoft.ProjectReunion.InteractiveExperiences.targets": {}
+        }
+      },
+      "Microsoft.ProjectReunion.WinUI/0.8.6": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI.dll": {}
+        },
+        "build": {
+          "buildTransitive/Microsoft.ProjectReunion.WinUI.props": {},
+          "buildTransitive/Microsoft.ProjectReunion.WinUI.targets": {}
+        }
+      },
+      "sqlite-net-pcl/1.8.116": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.bundle_green": "2.0.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLite-net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLite-net.dll": {}
+        }
+      },
+      "SQLitePCLRaw.bundle_green/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.core": "2.0.4",
+          "SQLitePCLRaw.lib.e_sqlite3": "2.0.4",
+          "SQLitePCLRaw.provider.dynamic_cdecl": "2.0.4"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll": {},
+          "lib/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll": {},
+          "lib/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll": {}
+        }
+      },
+      "SQLitePCLRaw.core/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {}
+        }
+      },
+      "SQLitePCLRaw.lib.e_sqlite3/2.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/_._": {}
+        },
+        "native": {
+          "runtimes/win-x86/native/e_sqlite3.dll": {}
+        }
+      },
+      "SQLitePCLRaw.provider.dynamic_cdecl/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "SQLitePCLRaw.core": "2.0.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll": {}
+        }
+      },
+      "System.Memory/4.5.3": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.ProjectReunion/0.8.6": {
+      "sha512": "CKkEBtsxDGvuxTtwikI7p9cv+a9I0hZ9CHCn/e2bVZzTKHrNCfEDP6ypqXqPIAbKAh94G4ysbXdRnJv6rMH4KA==",
+      "type": "package",
+      "path": "microsoft.projectreunion/0.8.6",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Microsoft.ProjectReunion.AppXReference.props",
+        "build/Microsoft.ProjectReunion.Metapackage.props",
+        "build/Microsoft.ProjectReunion.Package.props",
+        "build/Microsoft.ProjectReunion.props",
+        "build/Microsoft.ProjectReunion.targets",
+        "build/Microsoft.Xaml.Tooling.targets",
+        "build/MicrosoftProjectReunionFoundationAppXVersion.props",
+        "build/native/Microsoft.ProjectReunion.props",
+        "license.txt",
+        "microsoft.projectreunion.0.8.6.nupkg.sha512",
+        "microsoft.projectreunion.nuspec",
+        "tools/MSIX/CodeSignSummary-e494c91b-4570-4ff9-8c10-5b1400414e78.md",
+        "tools/MSIX/win10-arm64/Microsoft.ProjectReunion.0.8.msix",
+        "tools/MSIX/win10-x64/Microsoft.ProjectReunion.0.8.msix",
+        "tools/MSIX/win10-x86/Microsoft.ProjectReunion.0.8.msix"
+      ]
+    },
+    "Microsoft.ProjectReunion.DWrite/0.8.6": {
+      "sha512": "uqYkThj6szP/PC0Y7HtdDQZ3A/h1UIATewg7JX0qyiJ7FH+8+aDW4ft4r5PEOB7VE8Iipv+HIJNlU1+cEp1LJw==",
+      "type": "package",
+      "path": "microsoft.projectreunion.dwrite/0.8.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Microsoft.ProjectReunion.DWrite.ProjectCapabilities.props",
+        "build/Microsoft.ProjectReunion.DWrite.props",
+        "build/Microsoft.ProjectReunion.DWrite.targets",
+        "lib/native/include/dwrite.h",
+        "lib/native/include/dwrite_1.h",
+        "lib/native/include/dwrite_2.h",
+        "lib/native/include/dwrite_3.h",
+        "lib/native/include/dwrite_core.h",
+        "lib/native/windows/arm64/release/DWriteCore.lib",
+        "lib/native/windows/x64/release/DWriteCore.lib",
+        "lib/native/windows/x86/release/DWriteCore.lib",
+        "license.txt",
+        "microsoft.projectreunion.dwrite.0.8.6.nupkg.sha512",
+        "microsoft.projectreunion.dwrite.nuspec"
+      ]
+    },
+    "Microsoft.ProjectReunion.Foundation/0.8.6": {
+      "sha512": "ojlzmBSj1LLd2OO7vPeed/BA1648J+BEIqk7x8pOZN0l2F0GakPP0Z67y0m1n+6OGzmpYW4azX67FzvREbLgeQ==",
+      "type": "package",
+      "path": "microsoft.projectreunion.foundation/0.8.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "build/Microsoft.ApplicationModel.Resources.PriGen.targets",
+        "build/Microsoft.ApplicationModel.Resources.References.targets",
+        "build/Microsoft.ApplicationModel.Resources.targets",
+        "build/Microsoft.ProjectReunion.Foundation.props",
+        "build/Microsoft.ProjectReunion.Foundation.targets",
+        "build/Microsoft.ProjectReunion.Package.props",
+        "build/README.md",
+        "build/native/Microsoft.ApplicationModel.Resources.C.props",
+        "build/native/Microsoft.ApplicationModel.Resources.WinRt.props",
+        "build/native/Microsoft.ApplicationModel.Resources.props",
+        "build/native/Microsoft.ApplicationModel.Resources.targets",
+        "build/native/Microsoft.ProjectReunion.Foundation.props",
+        "build/native/Microsoft.ProjectReunion.Foundation.targets",
+        "build/native/ProjectReunion-Nuget-Native.C.props",
+        "include/MRM.h",
+        "lib/native/Microsoft.ApplicationModel.Resources.winmd",
+        "lib/native/Microsoft.ApplicationModel.Resources.xml",
+        "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.dll",
+        "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.pdb",
+        "lib/net5.0-windows/Microsoft.ApplicationModel.Resources.Projection.xml",
+        "lib/uap10.0/Microsoft.ApplicationModel.Resources.winmd",
+        "lib/uap10.0/Microsoft.ApplicationModel.Resources.xml",
+        "lib/win10-arm64/MRM.lib",
+        "lib/win10-x64/MRM.lib",
+        "lib/win10-x86/MRM.lib",
+        "microsoft.projectreunion.foundation.0.8.6.nupkg.sha512",
+        "microsoft.projectreunion.foundation.nuspec"
+      ]
+    },
+    "Microsoft.ProjectReunion.InteractiveExperiences/0.8.6": {
+      "sha512": "0p2gZJNQ4X5nFeLiElbdhfBZ+1XorvzTVkVeykIukbl4ItS0rN87zQQC5qy54obsEdmOAoGlvT94gk7TVqXvcw==",
+      "type": "package",
+      "path": "microsoft.projectreunion.interactiveexperiences/0.8.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Microsoft.InteractiveExperiences.Capabilities.props",
+        "build/Microsoft.InteractiveExperiences.Capabilities.targets",
+        "build/Microsoft.InteractiveExperiences.Common.targets",
+        "build/native/Microsoft.InteractiveExperiences.targets",
+        "build/native/Microsoft.ProjectReunion.InteractiveExperiences.TransportPackage.targets",
+        "build/native/Microsoft.ProjectReunion.InteractiveExperiences.targets",
+        "build/net5.0-windows10.0.17763.0/Microsoft.InteractiveExperiences.targets",
+        "build/net5.0-windows10.0.17763.0/Microsoft.ProjectReunion.InteractiveExperiences.TransportPackage.targets",
+        "build/net5.0-windows10.0.17763.0/Microsoft.ProjectReunion.InteractiveExperiences.targets",
+        "include/FrameworkUdk/AudioGraphSettingsExtension.h",
+        "include/FrameworkUdk/BackButtonIntegration.h",
+        "include/FrameworkUdk/BackButtonPressedListener.h",
+        "include/FrameworkUdk/CoreDragOperationFunctions.h",
+        "include/FrameworkUdk/CoreWindowIntegration.h",
+        "include/FrameworkUdk/CoreWindowIntegrationInterface.h",
+        "include/FrameworkUdk/DebugTool.h",
+        "include/FrameworkUdk/FinalUnhandledErrorDetected.h",
+        "include/FrameworkUdk/FrameworkInputView.h",
+        "include/FrameworkUdk/InputPaneFramework.h",
+        "include/FrameworkUdk/InputPaneListener.h",
+        "include/FrameworkUdk/MFMediaEngineExtension.h",
+        "include/FrameworkUdk/MediaCaptureExtension.h",
+        "include/FrameworkUdk/MediaExtensionEnums.h",
+        "include/FrameworkUdk/MediaPlaybackDataSourceExtension.h",
+        "include/FrameworkUdk/MediaPlaybackListExtension.h",
+        "include/FrameworkUdk/MediaPlaybackSessionExtension.h",
+        "include/FrameworkUdk/MediaPlayerExtension.h",
+        "include/FrameworkUdk/MuiUdk.h",
+        "include/FrameworkUdk/PowerNotificationsPal.h",
+        "include/FrameworkUdk/ResourceManager.h",
+        "include/FrameworkUdk/TextAnalysis.h",
+        "include/FrameworkUdk/TextInput.h",
+        "include/FrameworkUdk/Theming.h",
+        "include/FrameworkUdk/TimedMetadataTrackExtension.h",
+        "include/FrameworkUdk/VisualDiagnosticsPort.h",
+        "include/FrameworkUdk/Windowing.h",
+        "include/winrt/Microsoft.UI.Composition.Interop.h",
+        "lib/native/win10-arm64/Microsoft.Internal.FrameworkUdk.lib",
+        "lib/native/win10-x64/Microsoft.Internal.FrameworkUdk.lib",
+        "lib/native/win10-x86/Microsoft.Internal.FrameworkUdk.lib",
+        "license.txt",
+        "microsoft.projectreunion.interactiveexperiences.0.8.6.nupkg.sha512",
+        "microsoft.projectreunion.interactiveexperiences.nuspec"
+      ]
+    },
+    "Microsoft.ProjectReunion.WinUI/0.8.6": {
+      "sha512": "/rZgiPXLsnK/nLpHYA1goHVmANIHhVOM9+6g9GKnXVHFFvjWM4TppWBCz80HgK+epqH7p0NOWjJTgGZPd8JOIA==",
+      "type": "package",
+      "path": "microsoft.projectreunion.winui/0.8.6",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "AppxManifest.xml",
+        "build/AppDevPackageScripts/Add-AppDevPackage.ps1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/cs-CZ/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/de-DE/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/en-US/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/es-ES/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/fr-FR/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/it-IT/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/ja-JP/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/ko-KR/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/pl-PL/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/pt-BR/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/ru-RU/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/tr-TR/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/zh-CN/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Add-AppDevPackage.resources/zh-TW/Add-AppDevPackage.psd1",
+        "build/AppDevPackageScripts/Install.ps1",
+        "build/AppDevPackageScripts/LogSideloadingTelemetry.ps1",
+        "build/DefaultWin32Manifests/default.manifest",
+        "build/DefaultWin32Manifests/dpiaware-permonv2.manifest",
+        "build/DefaultWin32Manifests/dpiaware-system.manifest",
+        "build/Microsoft.Build.Msix.Common.props",
+        "build/Microsoft.Build.Msix.Cpp.props",
+        "build/Microsoft.Build.Msix.Cpp.targets",
+        "build/Microsoft.Build.Msix.DesignTime.targets",
+        "build/Microsoft.Build.Msix.Packaging.targets",
+        "build/Microsoft.Build.Msix.Pri.targets",
+        "build/Microsoft.Build.Msix.ReunionManifest.targets",
+        "build/Microsoft.Build.Msix.props",
+        "build/Microsoft.Build.Msix.targets",
+        "build/Microsoft.ProjectReunion.Foundation.targets",
+        "build/Microsoft.ProjectReunion.Package.props",
+        "build/Microsoft.ProjectReunion.WinUI.TransportPackage.props",
+        "build/Microsoft.ProjectReunion.WinUI.TransportPackage.targets",
+        "build/Microsoft.ProjectReunion.WinUI.props",
+        "build/Microsoft.ProjectReunion.WinUI.targets",
+        "build/Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+        "build/Microsoft.UI.Xaml.Markup.Compiler.props",
+        "build/Microsoft.UI.Xaml.Markup.Compiler.targets",
+        "build/Microsoft.WinUI.AppX.targets",
+        "build/Microsoft.WinUI.NET.Markup.Compiler.targets",
+        "build/Microsoft.WinUI.ProjectCapabilities.props",
+        "build/Microsoft.WinUI.References.targets",
+        "build/Microsoft.WinUI.props",
+        "build/Microsoft.WinUI.targets",
+        "build/native/LiftedWinRTClassRegistrations.xml",
+        "build/native/LiftedWinRTClassRegistrationsUnpackaged.xml",
+        "build/native/Microsoft.ProjectReunion.WinUI.TransportPackage.props",
+        "build/native/Microsoft.ProjectReunion.WinUI.TransportPackage.targets",
+        "build/native/Microsoft.ProjectReunion.WinUI.props",
+        "build/native/Microsoft.ProjectReunion.WinUI.targets",
+        "build/native/Microsoft.WinUI.References.targets",
+        "build/native/Microsoft.WinUI.props",
+        "build/native/Microsoft.WinUI.targets",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.ps1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/cs-CZ/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/de-DE/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/en-US/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/es-ES/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/fr-FR/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/it-IT/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/ja-JP/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/ko-KR/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/pl-PL/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/pt-BR/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/ru-RU/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/tr-TR/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/zh-CN/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Add-AppDevPackage.resources/zh-TW/Add-AppDevPackage.psd1",
+        "buildTransitive/AppDevPackageScripts/Install.ps1",
+        "buildTransitive/AppDevPackageScripts/LogSideloadingTelemetry.ps1",
+        "buildTransitive/DefaultWin32Manifests/default.manifest",
+        "buildTransitive/DefaultWin32Manifests/dpiaware-permonv2.manifest",
+        "buildTransitive/DefaultWin32Manifests/dpiaware-system.manifest",
+        "buildTransitive/Microsoft.Build.Msix.Common.props",
+        "buildTransitive/Microsoft.Build.Msix.Cpp.props",
+        "buildTransitive/Microsoft.Build.Msix.Cpp.targets",
+        "buildTransitive/Microsoft.Build.Msix.DesignTime.targets",
+        "buildTransitive/Microsoft.Build.Msix.Packaging.targets",
+        "buildTransitive/Microsoft.Build.Msix.Pri.targets",
+        "buildTransitive/Microsoft.Build.Msix.ReunionManifest.targets",
+        "buildTransitive/Microsoft.Build.Msix.props",
+        "buildTransitive/Microsoft.Build.Msix.targets",
+        "buildTransitive/Microsoft.ProjectReunion.Foundation.targets",
+        "buildTransitive/Microsoft.ProjectReunion.Package.props",
+        "buildTransitive/Microsoft.ProjectReunion.WinUI.TransportPackage.props",
+        "buildTransitive/Microsoft.ProjectReunion.WinUI.TransportPackage.targets",
+        "buildTransitive/Microsoft.ProjectReunion.WinUI.props",
+        "buildTransitive/Microsoft.ProjectReunion.WinUI.targets",
+        "buildTransitive/Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+        "buildTransitive/Microsoft.UI.Xaml.Markup.Compiler.props",
+        "buildTransitive/Microsoft.UI.Xaml.Markup.Compiler.targets",
+        "buildTransitive/Microsoft.WinUI.AppX.targets",
+        "buildTransitive/Microsoft.WinUI.NET.Markup.Compiler.targets",
+        "buildTransitive/Microsoft.WinUI.ProjectCapabilities.props",
+        "buildTransitive/Microsoft.WinUI.References.targets",
+        "buildTransitive/Microsoft.WinUI.props",
+        "buildTransitive/Microsoft.WinUI.targets",
+        "buildTransitive/native/LiftedWinRTClassRegistrations.xml",
+        "buildTransitive/native/LiftedWinRTClassRegistrationsUnpackaged.xml",
+        "buildTransitive/native/Microsoft.ProjectReunion.WinUI.TransportPackage.props",
+        "buildTransitive/native/Microsoft.ProjectReunion.WinUI.TransportPackage.targets",
+        "buildTransitive/native/Microsoft.ProjectReunion.WinUI.props",
+        "buildTransitive/native/Microsoft.ProjectReunion.WinUI.targets",
+        "buildTransitive/native/Microsoft.WinUI.References.targets",
+        "buildTransitive/native/Microsoft.WinUI.props",
+        "buildTransitive/native/Microsoft.WinUI.targets",
+        "include/Microsoft.UI.Composition.Interop.h",
+        "include/WebView2.h",
+        "include/WebView2.idl",
+        "include/microsoft.ui.dispatching.co_await.h",
+        "include/microsoft.ui.xaml.hosting.desktopwindowxamlsource.h",
+        "include/microsoft.ui.xaml.hosting.desktopwindowxamlsource.idl",
+        "include/microsoft.ui.xaml.hosting.referencetracker.h",
+        "include/microsoft.ui.xaml.hosting.referencetracker.idl",
+        "include/microsoft.ui.xaml.media.dxinterop.h",
+        "include/microsoft.ui.xaml.media.dxinterop.idl",
+        "include/microsoft.ui.xaml.window.h",
+        "include/microsoft.ui.xaml.window.idl",
+        "include/microsoft.ui.xaml.xamlroot.h",
+        "include/microsoft.ui.xaml.xamlroot.idl",
+        "include/winrtdirect3d11.h",
+        "include/winrtdirectxcommon.h",
+        "include/xamlom.h",
+        "include/xamlom.idl",
+        "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI.dll",
+        "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI.xml",
+        "lib/net5.0-windows10.0.18362.0/Microsoft.WinUI/Themes/generic.xaml",
+        "lib/uap10.0/Microsoft.Foundation.winmd",
+        "lib/uap10.0/Microsoft.Graphics.winmd",
+        "lib/uap10.0/Microsoft.UI.Dispatching.xml",
+        "lib/uap10.0/Microsoft.UI.Text.winmd",
+        "lib/uap10.0/Microsoft.UI.winmd",
+        "lib/uap10.0/Microsoft.UI.xml",
+        "lib/uap10.0/Microsoft.UI/Themes/generic.xaml",
+        "lib/uap10.0/Microsoft.Web.WebView2.Core.winmd",
+        "license.txt",
+        "microsoft.projectreunion.winui.0.8.6.nupkg.sha512",
+        "microsoft.projectreunion.winui.nuspec",
+        "tools/Microsoft.Build.Framework.dll",
+        "tools/Microsoft.Build.Msix.dll",
+        "tools/Microsoft.Build.Utilities.Core.dll",
+        "tools/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "tools/Microsoft.UI.Xaml.Markup.Compiler.MSBuildInterop.dll",
+        "tools/Microsoft.UI.Xaml.Markup.Compiler.dll",
+        "tools/Microsoft.VisualStudio.RemoteControl.dll",
+        "tools/Microsoft.VisualStudio.Setup.Configuration.Interop.dll",
+        "tools/Microsoft.VisualStudio.Telemetry.dll",
+        "tools/Microsoft.VisualStudio.Utilities.Internal.dll",
+        "tools/arm64/GenXbf.dll",
+        "tools/x64/GenXbf.dll",
+        "tools/x86/GenXbf.dll"
+      ]
+    },
+    "sqlite-net-pcl/1.8.116": {
+      "sha512": "W0NuwAOVVAR9LP4eZwNBIrim1p3EN7t8iNfSHXEhtzKAd4YyItekoQ8NyWYs4faVSrN2KZr/P5u4hycCjKKexg==",
+      "type": "package",
+      "path": "sqlite-net-pcl/1.8.116",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "Logo-low.png",
+        "lib/netstandard2.0/SQLite-net.dll",
+        "lib/netstandard2.0/SQLite-net.xml",
+        "sqlite-net-pcl.1.8.116.nupkg.sha512",
+        "sqlite-net-pcl.nuspec"
+      ]
+    },
+    "SQLitePCLRaw.bundle_green/2.0.4": {
+      "sha512": "ubFgOHDmtTcq2LU7Ss10yHnFVMm2rFVr65Ggi+Mh514KjGx4pal98P2zSvZtWf3wbtJw6G1InBgeozBtnpEfKQ==",
+      "type": "package",
+      "path": "sqlitepclraw.bundle_green/2.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll",
+        "lib/Xamarin.iOS10/SQLitePCLRaw.nativelibrary.dll",
+        "lib/net461/SQLitePCLRaw.batteries_v2.dll",
+        "lib/net461/SQLitePCLRaw.nativelibrary.dll",
+        "lib/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll",
+        "lib/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll",
+        "lib/netstandard2.0/SQLitePCLRaw.batteries_v2.dll",
+        "sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+        "sqlitepclraw.bundle_green.nuspec"
+      ]
+    },
+    "SQLitePCLRaw.core/2.0.4": {
+      "sha512": "4XlDZpDAsboMD6qZQcz9AaKblKDUTVHF+8f3lvbP7QjoqSRr2Xc0Lm34IK2pjRIYnyFLhI3yOJ5YWfOiCid2yg==",
+      "type": "package",
+      "path": "sqlitepclraw.core/2.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SQLitePCLRaw.core.dll",
+        "sqlitepclraw.core.2.0.4.nupkg.sha512",
+        "sqlitepclraw.core.nuspec"
+      ]
+    },
+    "SQLitePCLRaw.lib.e_sqlite3/2.0.4": {
+      "sha512": "oetvmtDZOE4Nnrtxd8Trapl9geBiu0rDCUXff46qGYjnUwzaU1mZ3OHnfR402tl32rx8gBWg3n5OBRaPJRbsGw==",
+      "type": "package",
+      "path": "sqlitepclraw.lib.e_sqlite3/2.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net461/SQLitePCLRaw.lib.e_sqlite3.targets",
+        "lib/net461/_._",
+        "lib/netstandard2.0/_._",
+        "runtimes/alpine-x64/native/libe_sqlite3.so",
+        "runtimes/linux-arm/native/libe_sqlite3.so",
+        "runtimes/linux-arm64/native/libe_sqlite3.so",
+        "runtimes/linux-armel/native/libe_sqlite3.so",
+        "runtimes/linux-mips64/native/libe_sqlite3.so",
+        "runtimes/linux-musl-x64/native/libe_sqlite3.so",
+        "runtimes/linux-x64/native/libe_sqlite3.so",
+        "runtimes/linux-x86/native/libe_sqlite3.so",
+        "runtimes/osx-x64/native/libe_sqlite3.dylib",
+        "runtimes/win-arm/native/e_sqlite3.dll",
+        "runtimes/win-arm64/native/e_sqlite3.dll",
+        "runtimes/win-x64/native/e_sqlite3.dll",
+        "runtimes/win-x86/native/e_sqlite3.dll",
+        "runtimes/win10-arm/nativeassets/uap10.0/e_sqlite3.dll",
+        "runtimes/win10-arm64/nativeassets/uap10.0/e_sqlite3.dll",
+        "runtimes/win10-x64/nativeassets/uap10.0/e_sqlite3.dll",
+        "runtimes/win10-x86/nativeassets/uap10.0/e_sqlite3.dll",
+        "sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+        "sqlitepclraw.lib.e_sqlite3.nuspec"
+      ]
+    },
+    "SQLitePCLRaw.provider.dynamic_cdecl/2.0.4": {
+      "sha512": "AY6+vv/4ji1mCkLrS6HP/88rHT9YFKRyg3LUj8RyIk6imJMUFdQDiP8rK8gq0a/0FbqspLjK1t7rtKcr7FXRYA==",
+      "type": "package",
+      "path": "sqlitepclraw.provider.dynamic_cdecl/2.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll",
+        "sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+        "sqlitepclraw.provider.dynamic_cdecl.nuspec"
+      ]
+    },
+    "System.Memory/4.5.3": {
+      "sha512": "3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "type": "package",
+      "path": "system.memory/4.5.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.1/_._",
+        "lib/netstandard1.1/System.Memory.dll",
+        "lib/netstandard1.1/System.Memory.xml",
+        "lib/netstandard2.0/System.Memory.dll",
+        "lib/netstandard2.0/System.Memory.xml",
+        "ref/netcoreapp2.1/_._",
+        "system.memory.4.5.3.nupkg.sha512",
+        "system.memory.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows10.0.19041": [
+      "Microsoft.ProjectReunion >= 0.8.6",
+      "Microsoft.ProjectReunion.Foundation >= 0.8.6",
+      "Microsoft.ProjectReunion.WinUI >= 0.8.6",
+      "sqlite-net-pcl >= 1.8.116"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\C#\\WinUI\\SQL_Lite\\SQL_Lite\\SQL_Lite.csproj",
+      "projectName": "SQL_Lite",
+      "projectPath": "E:\\C#\\WinUI\\SQL_Lite\\SQL_Lite\\SQL_Lite.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\C#\\WinUI\\SQL_Lite\\SQL_Lite\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows10.0.19041"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows10.0.19041": {
+          "targetAlias": "net5.0-windows10.0.19041.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows10.0.19041": {
+        "targetAlias": "net5.0-windows10.0.19041.0",
+        "dependencies": {
+          "Microsoft.ProjectReunion": {
+            "target": "Package",
+            "version": "[0.8.6, )"
+          },
+          "Microsoft.ProjectReunion.Foundation": {
+            "target": "Package",
+            "version": "[0.8.6, )"
+          },
+          "Microsoft.ProjectReunion.WinUI": {
+            "target": "Package",
+            "version": "[0.8.6, )"
+          },
+          "sqlite-net-pcl": {
+            "target": "Package",
+            "version": "[1.8.116, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-arm64",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-arm64",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x86",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.Windows.SDK.NET.Ref",
+            "version": "[10.0.19041.22, 10.0.19041.22]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Windows.SDK.NET.Ref": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win10-arm64": {
+        "#import": []
+      },
+      "win10-x64": {
+        "#import": []
+      },
+      "win10-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Form2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="male" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Lucifer Morningstar</Value>
+    </Setting>
+    <Setting Name="female" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Chloe Decker</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

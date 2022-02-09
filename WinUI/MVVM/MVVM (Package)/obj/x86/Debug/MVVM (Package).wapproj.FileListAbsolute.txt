@@ -1,0 +1,55 @@
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\App.xbf
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MainWindow.xbf
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\Microsoft.ApplicationModel.Resources.Projection.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\Microsoft.InteractiveExperiences.Projection.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\Microsoft.WinUI.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\runtimes\lib\native\arm64\Microsoft.WindowsAppSDK.Bootstrap.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\runtimes\lib\native\x64\Microsoft.WindowsAppSDK.Bootstrap.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\runtimes\lib\native\x86\Microsoft.WindowsAppSDK.Bootstrap.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\Microsoft.Windows.SDK.NET.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\WinRT.Runtime.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\MVVM.deps.json
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\MVVM.runtimeconfig.dev.json
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\App.xbf
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\MainWindow.xbf
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\MVVM.exe
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\MVVM.runtimeconfig.json
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\MVVM.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\MVVM.pdb
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\resources.pri
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\AppxManifest.xml
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM (Package).build.appxrecipe
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\MVVM (Package).wapproj.AssemblyReference.cache
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\MVVM (Package).wapproj.CoreCompileInputs.cache
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\MVVM.pri.xml
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\priconfig.xml
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\priconfig.xml.intermediate
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\filtered.layout.resfiles
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\excluded.layout.resfiles
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\resources.resfiles
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\resources.resfiles.intermediate
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\pri.resfiles
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\pri.resfiles.intermediate
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\qualifiers.txt
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\ProjectArchitectures.txt
+E:\C#\WinUI\MVVM\MVVM (Package)\obj\x86\Debug\MVVM (Package).wapproj.LastBuild.txt
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\Catel.Core.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\Catel.MVVM.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\Microsoft.Xaml.Behaviors.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\de\Catel.MVVM.resources.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\es\Catel.MVVM.resources.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\fr\Catel.MVVM.resources.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\it\Catel.MVVM.resources.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\nl\Catel.MVVM.resources.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\ru\Catel.MVVM.resources.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\tr\Catel.MVVM.resources.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\zh-Hans\Catel.MVVM.resources.dll
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\Catel.Core.pdb
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\Catel.MVVM.pdb
+E:\C#\WinUI\MVVM\MVVM (Package)\bin\x86\Debug\MVVM\Microsoft.Xaml.Behaviors.pdb

@@ -1,0 +1,40 @@
+E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\Coffee.xbf
+E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\Complete.xbf
+E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\Donuts.xbf
+E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\Schedule.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\background.jpg
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\ticket.jpg
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\coffee-icon.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\color-logo.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\complete-icon.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\donut-icon.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\schedule-icon.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\SplashScreen.scale-200.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\LockScreenLogo.scale-200.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\Square150x150Logo.scale-200.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\Square44x44Logo.scale-200.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\StoreLogo.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\white-logo.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\Images\Wide310x150Logo.scale-200.png
+E:\C#\WinUI\GoNuts\GoNuts (Package)\bin\x86\Debug\resources.pri
+C:\Users\User\.nuget\packages\microsoft.projectreunion.foundation\0.8.6\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\User\.nuget\packages\microsoft.projectreunion.winui\0.8.6\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\WinRT.Runtime.dll
+E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\GoNuts.deps.json
+E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\GoNuts.runtimeconfig.dev.json
+E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\Coffee.xbf
+E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\Complete.xbf
+E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\Donuts.xbf
+E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\Schedule.xbf
+E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\User\.nuget\packages\microsoft.projectreunion.foundation\0.8.6\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.pdb
+E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\GoNuts.runtimeconfig.json
+E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\GoNuts.dll
+E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\GoNuts.pdb

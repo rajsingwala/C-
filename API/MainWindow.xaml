@@ -1,0 +1,64 @@
+﻿<Window
+    x:Class="API.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:converter="clr-namespace:API.ViewModel.ValueConverter"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:API"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+
+    <Page Loaded="Page_Loaded">
+
+        <Page.Resources>
+            <converter:Graphic x:Key="graphic" />
+        </Page.Resources>
+
+        <Grid>
+            <DataGrid
+                x:Name="dataGrid"
+                AlternatingRowBackground="LightGray"
+                AutoGenerateColumns="False"
+                GridLinesVisibility="All"
+                ItemsSource="{Binding ProductCollection, IsAsync=True}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn
+                        Binding="{Binding ProductSKU}"
+                        Header="Product SKU"
+                        IsReadOnly="True" />
+                    <DataGridTextColumn
+                        Binding="{Binding ProductName}"
+                        Header="Product Name"
+                        IsReadOnly="True" />
+                    <DataGridTextColumn
+                        Binding="{Binding Product_type}"
+                        Header="Product Type"
+                        IsReadOnly="True" />
+                    <DataGridTextColumn
+                        Binding="{Binding Graphic, Converter={StaticResource graphic}}"
+                        Header="Graphic"
+                        IsReadOnly="True" />
+                    <DataGridTextColumn
+                        Binding="{Binding Color}"
+                        Header="Color"
+                        IsReadOnly="True" />
+                    <DataGridTextColumn
+                        Binding="{Binding ColorInHex}"
+                        Header="ColorInHex"
+                        IsReadOnly="True" />
+                    <DataGridTextColumn
+                        Binding="{Binding Size}"
+                        Header="Size"
+                        IsReadOnly="True" />
+                    <DataGridTextColumn
+                        Binding="{Binding Weight}"
+                        Header="Weight"
+                        IsReadOnly="True" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Page>
+</Window>

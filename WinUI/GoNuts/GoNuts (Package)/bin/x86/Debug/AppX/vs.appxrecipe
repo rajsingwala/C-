@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-9H1SOTK</Machine>
+    <WindowsUser>User</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>691c61d5-143e-4bce-bc42-eaf04916d5c7</PackageIdentityName>
+    <PackageIdentityPublisher>CN=User</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\C#\WinUI\GoNuts\GoNuts %28Package%29\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>E:\C#\WinUI\GoNuts\GoNuts %28Package%29\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>711B764C4FC03FEB4A1FA7AFAC547F569BCF26EC857E2623E65569FA63F59895</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>691c61d5-143e-4bce-bc42-eaf04916d5c7_1.0.0.0_x86__4sdaedqydyjdm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>691c61d5-143e-4bce-bc42-eaf04916d5c7_4sdaedqydyjdm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>691c61d5-143e-4bce-bc42-eaf04916d5c7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=User</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-01-13T17:24:40.253</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2022-01-13T17:07:30.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\Coffee.xbf">
+      <PackagePath>Coffee.xbf</PackagePath>
+      <Modified>2022-01-13T17:07:30.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\Complete.xbf">
+      <PackagePath>Complete.xbf</PackagePath>
+      <Modified>2022-01-13T17:24:38.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\Donuts.xbf">
+      <PackagePath>Donuts.xbf</PackagePath>
+      <Modified>2022-01-13T17:07:30.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf">
+      <PackagePath>MainWindow.xbf</PackagePath>
+      <Modified>2022-01-13T17:07:30.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\Schedule.xbf">
+      <PackagePath>Schedule.xbf</PackagePath>
+      <Modified>2022-01-13T17:22:43.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2020-12-01T23:29:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\background.jpg">
+      <PackagePath>Images\background.jpg</PackagePath>
+      <Modified>2015-09-30T04:20:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\ticket.jpg">
+      <PackagePath>Images\ticket.jpg</PackagePath>
+      <Modified>2015-09-30T04:20:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\coffee-icon.png">
+      <PackagePath>Images\coffee-icon.png</PackagePath>
+      <Modified>2015-09-30T04:20:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\color-logo.png">
+      <PackagePath>Images\color-logo.png</PackagePath>
+      <Modified>2015-09-30T04:20:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\complete-icon.png">
+      <PackagePath>Images\complete-icon.png</PackagePath>
+      <Modified>2015-09-30T04:20:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\donut-icon.png">
+      <PackagePath>Images\donut-icon.png</PackagePath>
+      <Modified>2015-09-30T04:20:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\schedule-icon.png">
+      <PackagePath>Images\schedule-icon.png</PackagePath>
+      <Modified>2015-09-30T04:20:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-01-08T07:06:28.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2022-01-08T07:06:28.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-01-08T07:06:28.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-01-08T07:06:28.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-01-08T07:06:28.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-01-08T07:06:28.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\white-logo.png">
+      <PackagePath>Images\white-logo.png</PackagePath>
+      <Modified>2015-09-30T04:20:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-01-08T07:06:28.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts %28Package%29\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-01-13T17:24:40.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.projectreunion.foundation\0.8.6\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll">
+      <PackagePath>GoNuts\Microsoft.ApplicationModel.Resources.Projection.dll</PackagePath>
+      <Modified>2021-12-04T01:38:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.projectreunion.winui\0.8.6\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+      <PackagePath>GoNuts\Microsoft.WinUI.dll</PackagePath>
+      <Modified>2021-12-04T01:38:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>GoNuts\Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2021-11-17T10:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\WinRT.Runtime.dll">
+      <PackagePath>GoNuts\WinRT.Runtime.dll</PackagePath>
+      <Modified>2021-11-17T10:43:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\GoNuts.deps.json">
+      <PackagePath>GoNuts\GoNuts.deps.json</PackagePath>
+      <Modified>2022-01-13T16:16:24.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\GoNuts.runtimeconfig.dev.json">
+      <PackagePath>GoNuts\GoNuts.runtimeconfig.dev.json</PackagePath>
+      <Modified>2022-01-13T12:29:56.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf">
+      <PackagePath>GoNuts\App.xbf</PackagePath>
+      <Modified>2022-01-13T17:07:30.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\Coffee.xbf">
+      <PackagePath>GoNuts\Coffee.xbf</PackagePath>
+      <Modified>2022-01-13T17:07:30.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\Complete.xbf">
+      <PackagePath>GoNuts\Complete.xbf</PackagePath>
+      <Modified>2022-01-13T17:24:38.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\Donuts.xbf">
+      <PackagePath>GoNuts\Donuts.xbf</PackagePath>
+      <Modified>2022-01-13T17:07:30.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf">
+      <PackagePath>GoNuts\MainWindow.xbf</PackagePath>
+      <Modified>2022-01-13T17:07:30.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\Schedule.xbf">
+      <PackagePath>GoNuts\Schedule.xbf</PackagePath>
+      <Modified>2022-01-13T17:22:43.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe">
+      <PackagePath>GoNuts\GoNuts.exe</PackagePath>
+      <Modified>2022-01-13T17:24:38.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\GoNuts.runtimeconfig.json">
+      <PackagePath>GoNuts\GoNuts.runtimeconfig.json</PackagePath>
+      <Modified>2022-01-13T12:29:56.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\C#\WinUI\GoNuts\GoNuts\bin\x86\Debug\net5.0-windows10.0.19041.0\GoNuts.dll">
+      <PackagePath>GoNuts\GoNuts.dll</PackagePath>
+      <Modified>2022-01-13T17:24:38.689</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\User\.nuget\packages\microsoft.projectreunion\0.8.6\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8006.337.137.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8006.337.137.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\User\.nuget\packages\microsoft.projectreunion\0.8.6\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\User\.nuget\packages\microsoft.projectreunion\0.8.6\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8006.337.137.0</Version>
+      <Architecture>win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8006.337.137.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\User\.nuget\packages\microsoft.projectreunion\0.8.6\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\User\.nuget\packages\microsoft.projectreunion\0.8.6\build\..\tools\MSIX\win10-x64\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8006.337.137.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8006.337.137.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\User\.nuget\packages\microsoft.projectreunion\0.8.6\build\..\tools\MSIX\win10-x64\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\User\.nuget\packages\microsoft.projectreunion\0.8.6\build\..\tools\MSIX\win10-arm64\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8006.337.137.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8006.337.137.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\User\.nuget\packages\microsoft.projectreunion\0.8.6\build\..\tools\MSIX\win10-arm64\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
